@@ -1,6 +1,8 @@
 
 ### Make Your Own Characters & Story Generator ###
 
+![alt text](app-home-screen.png)
+
 ## About The Project
 This is a student project for Encode academy, building a story telling generator using Next.js, Shadcn, OpenAI API and Vercel. The purpose of the project is to generate a story with the characters that the user has created. The user can add, edit and delete characters. Once the user clicks on the generate story button, the app will generate a story with the characters that the user has created utilizing the OpenAI API. Finally, the user can generate a summary of the character's role in the story after the story has been generated.
 
